@@ -1,4 +1,4 @@
-# Codveda ML Submission
+# Codveda Machine Learning Submission
 
 ## 📌 Project Overview
 
@@ -8,13 +8,18 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 
       ```bash
       codveda-ml-submission/
+      │
       ├── Level 1 Basic/
       │   ├── Task_1_Data_Preprocessing/
       │   │   ├── data/
+      │   │   │   ├── processed/
+      │   │   │   └── raw/
       │   │   └── preprocessing.ipynb
+      │   │
       │   ├── Task_2_Linear_Regression/
       │   │   ├── data/
       │   │   └── linear_regression.ipynb
+      │   │
       │   └── Task_3_KNN_Classifier/
       │       ├── data/
       │       └── knn_classifier.ipynb
@@ -23,9 +28,11 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
       │   ├── Task_1_Logistic_Regression/
       │   │   ├── data/
       │   │   └── logistic_regression.ipynb
+      │   │
       │   ├── Task_2_Decision_Tree/
       │   │   ├── data/
       │   │   └── decision_tree.ipynb
+      │   │
       │   └── Task_3_KMeans_Clustering/
       │       ├── data/
       │       └── kmeans_clustering.ipynb
@@ -34,12 +41,18 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
       │   ├── Task_1_Random_Forest/
       │   │   ├── data/
       │   │   └── random_forest.ipynb
+      │   │
       │   ├── Task_2_SVM/
       │   │   ├── data/
       │   │   └── svm.ipynb
+      │   │
       │   └── Task_3_Neural_Network/
       │       ├── data/
       │       └── neural_network.ipynb
+      │
+      ├── .gitignore
+      │
+      ├── LICENSE
       │
       └── README.md
       ```
