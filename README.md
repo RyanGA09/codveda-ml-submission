@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This repository contains machine learning tasks as part of the [Codveda Technologies](https://www.linkedin.com/company/codveda-technologies/posts/?feedView=all) internship program. The tasks are divided into three levels: `Basic`, `Intermediate`, and `Advanced`. Each level includes specific machine learning concepts and techniques, implemented using Python and various ML libraries.
+This repository contains machine learning tasks as part of the [Codveda Technologies](https://www.linkedin.com/company/codveda-technologies/) internship program. The tasks are divided into three levels: `Basic`, `Intermediate`, and `Advanced`. Each level includes specific machine learning concepts and techniques, implemented using Python and various ML libraries.
 
 ## 📂 Repository Structure
 
@@ -170,11 +170,12 @@ pip install pandas numpy scikit-learn matplotlib seaborn tensorflow keras
 For any queries or collaborations, reach out via:
 
 - **LinkedIn:** [Ryan Gading Abdullah](https://linkedin.com/in/ryan-gading-abdullah)
-- **GitHub:** [RyanGA09](https://github.com/RyanGA09)
 - **Instagram:** [Ryan Gading](https://www.instagram.com/ryan_g._a/)
+- **GitHub:** [RyanGA09](https://github.com/RyanGA09)
+- **GitLab:** [RyanGA09](https://gitlab.com/RyanGA09)
 
 ## LICENSE
 
 [MIT LICENSE](LICENSE)
 
-&copy;2025 Ryan Gading Abdullah. All rights reserved.
+&copy; 2025 Ryan Gading Abdullah. All rights reserved.
