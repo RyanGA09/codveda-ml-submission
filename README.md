@@ -163,7 +163,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn tensorflow keras
    jupyter notebook
    ```
 
-4. **Run the notebooks in the `Level_1_Basic`, `Level_2_Intermediate`, and `Level_3_Advanced` folders.**
+4. **Run the notebooks in the `Level 1 Basic`, `Level 2 Intermediate`, and `Level 3 Advanced` folders.**
 
 ## 📧 Contact
 
