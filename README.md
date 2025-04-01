@@ -135,6 +135,47 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Evaluate using accuracy and visualize training/validation loss.
 - Tools: `Python, TensorFlow/Keras, Pandas, Matplotlib`
 
+## 🛠 Tech Stack
+
+Here are the technologies and libraries used in this project:
+
+### Programming Language
+
+- Python
+
+### Libraries & Frameworks
+
+#### Level 1 (Basic)
+
+- Data Preprocessing: os, pandas, scikit-learn
+- Linear Regression: os, pandas, matplotlib, scikit-learn, plotly
+- KNN Classifier: os, pandas, numpy, matplotlib, seaborn, mplcursors, scikit-learn
+
+#### Level 2 (Intermediate)
+
+- Logistic Regression: os, pandas, numpy, matplotlib, seaborn, scikit-learn
+- Decision Tree: os, pandas, numpy, matplotlib, seaborn, scikit-learn
+- K-Means Clustering: os, pandas, numpy, matplotlib, plotly, seaborn, scikit-learn
+
+#### Level 3 (Advanced)
+
+- Random Forest: os, pandas, numpy, matplotlib, seaborn, scikit-learn, scipy
+- SVM: os, pandas, matplotlib, seaborn, scikit-learn, mlxtend
+- Neural Networks: os, pandas, numpy, matplotlib, tensorflow, keras, scikit-learn
+
+### Tools
+
+- Jupyter Notebook
+
+### Version Control
+
+- Git
+- Github
+
+### Operating System
+
+- Windows, macOS, Linux
+
 ## 🛠 Dependencies
 
 Ensure you have the following installed before running the notebooks:
