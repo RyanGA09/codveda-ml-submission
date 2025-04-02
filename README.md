@@ -1,4 +1,4 @@
-# Codveda Machine Learning Submission
+# Codveda Machine Learning Intern Submission
 
 ## 📌 Project Overview
 
@@ -14,28 +14,34 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
       │   │   ├── data/
       │   │   │   ├── processed/
       │   │   │   └── raw/
-      │   │   └── preprocessing.ipynb
+      │   │   ├── preprocessing.ipynb
+      │   │   └── Video Preview Level 1 Task 1.mp4
       │   │
       │   ├── Task_2_Linear_Regression/
       │   │   ├── data/
-      │   │   └── linear_regression.ipynb
+      │   │   ├── linear_regression.ipynb
+      │   │   └── Video Preview Level 1 Task 2.mp4
       │   │
       │   └── Task_3_KNN_Classifier/
-      │       ├── data/
-      │       └── knn_classifier.ipynb
+      │        ├── data/
+      │        ├── knn_classifier.ipynb
+      │        └── Video Preview Level 1 Task 3.mp4
       │
       ├── Level 2 Intermediate/
       │   ├── Task_1_Logistic_Regression/
       │   │   ├── data/
-      │   │   └── logistic_regression.ipynb
+      │   │   ├── logistic_regression.ipynb
+      │   │   └── Video Preview Level 2 Task 1.mp4
       │   │
       │   ├── Task_2_Decision_Tree/
       │   │   ├── data/
-      │   │   └── decision_tree.ipynb
+      │   │   ├── decision_tree.ipynb
+      │   │   └── Video Preview Level 2 Task 2.mp4
       │   │
       │   └── Task_3_KMeans_Clustering/
       │       ├── data/
-      │       └── kmeans_clustering.ipynb
+      │       ├── kmeans_clustering.ipynb
+      │       └── Video Preview Level 2 Task 3.mp4
       │
       ├── Level 3 Advanced/
       │   ├── Task_1_Random_Forest/
@@ -51,9 +57,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
       │       └── neural_network.ipynb
       │
       ├── .gitignore
-      │
       ├── LICENSE
-      │
       └── README.md
       ```
 
@@ -67,7 +71,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Encode categorical variables (one-hot encoding, label encoding).
 - Normalize or standardize numerical features.
 - Split dataset into training and testing sets.
-- Tools: `Python, Pandas, Scikit-learn`
+- Tools: `Python, Pandas, Scikit-learn, OS`
 
 #### Task 2: Build a Simple Linear Regression Model
 
@@ -75,14 +79,14 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Train a linear regression model using `Scikit-learn`.
 - Interpret model coefficients.
 - Evaluate model with R-squared and Mean Squared Error (MSE).
-- Tools: `Python, Pandas, Scikit-Learn`
+- Tools: `Python, Pandas, Scikit-Learn, OS, Matplotlib, plotly`
 
 #### Task 3: Implement K-Nearest Neighbors (KNN) Classifier
 
 - Train a KNN model on labeled dataset.
 - Evaluate using accuracy, confusion matrix, precision, recall.
 - Compare results using different values of K.
-- Tools: `Python, Scikit-Learn, Pandas`
+- Tools: `Python, Scikit-Learn, Pandas, OS, NumPy, Matplotlib, Seaborn, mplcursors`
 
 ### Level 2 (Intermediate)
 
@@ -92,7 +96,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Train logistic regression model.
 - Interpret model coefficients and odds ratio.
 - Evaluate using accuracy, precision, recall, and ROC curve.
-- Tools: `Python, Pandas, Scikit-Learn, Matplotlib`
+- Tools: `Python, Pandas, Scikit-Learn, Matplotlib, OS`
 
 #### Task 2: Decision Trees for Classification
 
@@ -100,7 +104,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Visualize the tree structure.
 - Prune tree to prevent overfitting.
 - Evaluate using classification metrics (accuracy, F1-score).
-- Tools: `Python, Scikit-Learn, Pandas, Matplotlib`
+- Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS`
 
 #### Task 3: K-Means Clustering
 
@@ -108,7 +112,13 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Apply K-Means clustering and determine optimal cluster number (elbow method).
 - Visualize clusters using scatter plots.
 - Interpret clustering results.
-- Tools: `Python, Scikit-learn, Matplotlib, Seaborn`
+- Tools: `Python, Scikit-learn, Matplotlib, Seaborn, OS`
+
+Level 2 (Intermediate)
+
+- Logistic Regression: os, pandas, numpy, matplotlib, seaborn, scikit-learn
+- Decision Tree: os, pandas, numpy, matplotlib, seaborn, scikit-learn
+- K-Means Clustering: os, pandas, numpy, matplotlib, plotly, seaborn, scikit-learn
 
 ### Level 3 (Advanced)
 
@@ -117,7 +127,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Train Random Forest model and tune hyperparameters.
 - Evaluate using cross-validation, precision, recall, F1-score.
 - Perform feature importance analysis.
-- Tools: `Python, Scikit-learn, Pandas, Matplotlib`
+- Tools: `Python, Scikit-learn, Pandas, Matplotlib, OS`
 
 #### Task 2: Support Vector Machine (SVM) for Classification
 
@@ -125,7 +135,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Use different kernels (linear, RBF) and compare performance.
 - Visualize decision boundary.
 - Evaluate using accuracy, precision, recall, and AUC.
-- Tools: `Python, Scikit-learn, Pandas, Matplotlib`
+- Tools: `Python, Scikit-learn, Pandas, Matplotlib, OS`
 
 #### Task 3: Neural Network for Classification
 
@@ -133,39 +143,33 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Design neural network (input, hidden, output layers).
 - Train model using backpropagation.
 - Evaluate using accuracy and visualize training/validation loss.
-- Tools: `Python, TensorFlow/Keras, Pandas, Matplotlib`
+- Tools: `Python, TensorFlow/Keras, Pandas, Matplotlib, OS`
 
-## 🛠 Tech Stack
-
-Here are the technologies and libraries used in this project:
-
-### Programming Language
-
-- Python
-
-### Libraries & Frameworks
-
-#### Level 1 (Basic)
-
-- Data Preprocessing: os, pandas, scikit-learn
-- Linear Regression: os, pandas, matplotlib, scikit-learn, plotly
-- KNN Classifier: os, pandas, numpy, matplotlib, seaborn, mplcursors, scikit-learn
-
-#### Level 2 (Intermediate)
-
-- Logistic Regression: os, pandas, numpy, matplotlib, seaborn, scikit-learn
-- Decision Tree: os, pandas, numpy, matplotlib, seaborn, scikit-learn
-- K-Means Clustering: os, pandas, numpy, matplotlib, plotly, seaborn, scikit-learn
-
-#### Level 3 (Advanced)
+Level 3 (Advanced)
 
 - Random Forest: os, pandas, numpy, matplotlib, seaborn, scikit-learn, scipy
 - SVM: os, pandas, matplotlib, seaborn, scikit-learn, mlxtend
 - Neural Networks: os, pandas, numpy, matplotlib, tensorflow, keras, scikit-learn
 
+## Tech Stack
+
 ### Tools
 
 - Jupyter Notebook
+- Microsoft Visual Studio Code
+
+### Library & FrameWork
+
+- OS
+- Pandas
+- Scikit-Learn
+- scipy
+- mlxtend
+- mplcursors
+- NumPy
+- Matplotlib
+- Seaborn
+- Tensorflow/Keras
 
 ### Version Control
 
@@ -174,14 +178,14 @@ Here are the technologies and libraries used in this project:
 
 ### Operating System
 
-- Windows, macOS, Linux
+- Windows
 
 ## 🛠 Dependencies
 
 Ensure you have the following installed before running the notebooks:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn tensorflow keras
+pip install pandas numpy scikit-learn matplotlib seaborn tensorflow keras mplcursors mlxtend scipy
 ```
 
 ## 🚀 How to Run the Code
