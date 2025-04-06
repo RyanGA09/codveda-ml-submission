@@ -170,6 +170,7 @@ Level 3 (Advanced)
 - Matplotlib
 - Seaborn
 - Tensorflow/Keras
+- Datetime
 
 ### Version Control
 
