@@ -137,7 +137,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Design neural network (input, hidden, output layers).
 - Train model using backpropagation.
 - Evaluate using accuracy and visualize training/validation loss.
-- Tools: `Python, TensorFlow/Keras, Pandas, Matplotlib, OS, NumPy, Scikit-Learn`
+- Tools: `Python, TensorFlow/Keras, Pandas, Matplotlib, OS, NumPy, Scikit-Learn, Seaborn, Datetime, Imblearn`
 
 ## Tech Stack
 
