@@ -96,7 +96,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Train logistic regression model.
 - Interpret model coefficients and odds ratio.
 - Evaluate using accuracy, precision, recall, and ROC curve.
-- Tools: `Python, Pandas, Scikit-Learn, Matplotlib, OS`
+- Tools: `Python, Pandas, Scikit-Learn, Matplotlib, OS, NumPy, Seaborn`
 
 #### Task 2: Decision Trees for Classification
 
@@ -104,7 +104,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Visualize the tree structure.
 - Prune tree to prevent overfitting.
 - Evaluate using classification metrics (accuracy, F1-score).
-- Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS`
+- Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS, NumPy, Seaborn`
 
 #### Task 3: K-Means Clustering
 
@@ -112,13 +112,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Apply K-Means clustering and determine optimal cluster number (elbow method).
 - Visualize clusters using scatter plots.
 - Interpret clustering results.
-- Tools: `Python, Scikit-learn, Matplotlib, Seaborn, OS`
-
-Level 2 (Intermediate)
-
-- Logistic Regression: os, pandas, numpy, matplotlib, seaborn, scikit-learn
-- Decision Tree: os, pandas, numpy, matplotlib, seaborn, scikit-learn
-- K-Means Clustering: os, pandas, numpy, matplotlib, plotly, seaborn, scikit-learn
+- Tools: `Python, Scikit-learn, Matplotlib, Seaborn, OS, Pandas, NumPy, Plotly, Seaborn`
 
 ### Level 3 (Advanced)
 
@@ -127,7 +121,7 @@ Level 2 (Intermediate)
 - Train Random Forest model and tune hyperparameters.
 - Evaluate using cross-validation, precision, recall, F1-score.
 - Perform feature importance analysis.
-- Tools: `Python, Scikit-learn, Pandas, Matplotlib, OS`
+- Tools: `Python, Scikit-learn, Pandas, Matplotlib, OS, NumPy, Seaborn, Scipy`
 
 #### Task 2: Support Vector Machine (SVM) for Classification
 
@@ -135,7 +129,7 @@ Level 2 (Intermediate)
 - Use different kernels (linear, RBF) and compare performance.
 - Visualize decision boundary.
 - Evaluate using accuracy, precision, recall, and AUC.
-- Tools: `Python, Scikit-learn, Pandas, Matplotlib, OS`
+- Tools: `Python, Scikit-learn, Pandas, Matplotlib, OS, Seaborn, Mlxtend`
 
 #### Task 3: Neural Network for Classification
 
@@ -143,13 +137,7 @@ Level 2 (Intermediate)
 - Design neural network (input, hidden, output layers).
 - Train model using backpropagation.
 - Evaluate using accuracy and visualize training/validation loss.
-- Tools: `Python, TensorFlow/Keras, Pandas, Matplotlib, OS`
-
-Level 3 (Advanced)
-
-- Random Forest: os, pandas, numpy, matplotlib, seaborn, scikit-learn, scipy
-- SVM: os, pandas, matplotlib, seaborn, scikit-learn, mlxtend
-- Neural Networks: os, pandas, numpy, matplotlib, tensorflow, keras, scikit-learn
+- Tools: `Python, TensorFlow/Keras, Pandas, Matplotlib, OS, NumPy, Scikit-Learn`
 
 ## Tech Stack
 
