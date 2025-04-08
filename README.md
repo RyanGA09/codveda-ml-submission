@@ -79,14 +79,14 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Train a linear regression model using `Scikit-learn`.
 - Interpret model coefficients.
 - Evaluate model with R-squared and Mean Squared Error (MSE).
-- Tools: `Python, Pandas, Scikit-Learn, OS, Matplotlib, plotly`
+- Tools: `Python, Pandas, Scikit-Learn, OS, Matplotlib, Plotly`
 
 #### Task 3: Implement K-Nearest Neighbors (KNN) Classifier
 
 - Train a KNN model on labeled dataset.
 - Evaluate using accuracy, confusion matrix, precision, recall.
 - Compare results using different values of K.
-- Tools: `Python, Scikit-Learn, Pandas, OS, NumPy, Matplotlib, Seaborn, mplcursors`
+- Tools: `Python, Scikit-Learn, Pandas, OS, NumPy, Matplotlib, Seaborn, Mplcursors`
 
 ### Level 2 (Intermediate)
 
@@ -143,31 +143,19 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 
 ### Tools
 
-- Jupyter Notebook
-- Microsoft Visual Studio Code
+Jupyter Notebook & Microsoft Visual Studio Code
 
 ### Library & FrameWork
 
-- OS
-- Pandas
-- Scikit-Learn
-- scipy
-- mlxtend
-- mplcursors
-- NumPy
-- Matplotlib
-- Seaborn
-- Tensorflow/Keras
-- Datetime
+OS, Pandas, Scikit-Learn, scipy, mlxtend, mplcursors, NumPy, Matplotlib, Seaborn, Tensorflow/Keras, Datetime
 
 ### Version Control
 
-- Git
-- Github
+Git & Github
 
 ### Operating System
 
-- Windows
+Windows
 
 ## 🛠 Dependencies
 
@@ -211,5 +199,7 @@ For any queries or collaborations, reach out via:
 ## LICENSE
 
 [MIT LICENSE](LICENSE)
+
+Built with ❤️ by Ryan Gading Abdullah
 
 &copy; 2025 Ryan Gading Abdullah. All rights reserved.
