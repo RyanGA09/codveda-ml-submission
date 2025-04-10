@@ -47,14 +47,17 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
       │   ├── Task_1_Random_Forest/
       │   │   ├── data/
       │   │   └── random_forest.ipynb
+      │   │   └── Video Preview Level 3 Task 1.mp4
       │   │
       │   ├── Task_2_SVM/
       │   │   ├── data/
       │   │   └── svm.ipynb
+      │   │   └── Video Preview Level 3 Task 2.mp4
       │   │
       │   └── Task_3_Neural_Network/
       │       ├── data/
       │       └── neural_network.ipynb
+      │       └── Video Preview Level 3 Task 3.mp4
       │
       ├── .gitignore
       ├── LICENSE
@@ -71,7 +74,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Encode categorical variables (one-hot encoding, label encoding).
 - Normalize or standardize numerical features.
 - Split dataset into training and testing sets.
-- Tools: `Python, Pandas, Scikit-learn, OS`
+- Tools: `Python, Pandas, Scikit-Learn, OS`
 
 #### Task 2: Build a Simple Linear Regression Model
 
@@ -79,7 +82,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Train a linear regression model using `Scikit-learn`.
 - Interpret model coefficients.
 - Evaluate model with R-squared and Mean Squared Error (MSE).
-- Tools: `Python, Pandas, Scikit-Learn, OS, Matplotlib, Plotly`
+- Tools: `Python, Pandas, Scikit-Learn, OS, Plotly`
 
 #### Task 3: Implement K-Nearest Neighbors (KNN) Classifier
 
@@ -104,7 +107,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Visualize the tree structure.
 - Prune tree to prevent overfitting.
 - Evaluate using classification metrics (accuracy, F1-score).
-- Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS, NumPy, Seaborn`
+- Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS, Seaborn`
 
 #### Task 3: K-Means Clustering
 
@@ -112,7 +115,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Apply K-Means clustering and determine optimal cluster number (elbow method).
 - Visualize clusters using scatter plots.
 - Interpret clustering results.
-- Tools: `Python, Scikit-learn, Matplotlib, Seaborn, OS, Pandas, NumPy, Plotly, Seaborn`
+- Tools: `Python, Scikit-Learn, Matplotlib, Seaborn, OS, Pandas, NumPy, Plotly, Seaborn`
 
 ### Level 3 (Advanced)
 
@@ -121,7 +124,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Train Random Forest model and tune hyperparameters.
 - Evaluate using cross-validation, precision, recall, F1-score.
 - Perform feature importance analysis.
-- Tools: `Python, Scikit-learn, Pandas, Matplotlib, OS, NumPy, Seaborn, Scipy`
+- Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS, NumPy, Seaborn, Scipy`
 
 #### Task 2: Support Vector Machine (SVM) for Classification
 
@@ -129,7 +132,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Use different kernels (linear, RBF) and compare performance.
 - Visualize decision boundary.
 - Evaluate using accuracy, precision, recall, and AUC.
-- Tools: `Python, Scikit-learn, Pandas, Matplotlib, OS, Seaborn, Mlxtend`
+- Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS, Seaborn, Mlxtend`
 
 #### Task 3: Neural Network for Classification
 
