@@ -1,6 +1,6 @@
-# Codveda Machine Learning Intern Submission
+# 🚀 Codveda Machine Learning Intern Submission
 
-## 📌 Project Overview
+## 🧠 Project Overview
 
 This repository contains machine learning tasks as part of the [Codveda Technologies](https://www.linkedin.com/company/codveda-technologies/) internship program. The tasks are divided into three levels: `Basic`, `Intermediate`, and `Advanced`. Each level includes specific machine learning concepts and techniques, implemented using Python and various ML libraries.
 
@@ -64,11 +64,11 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
       └── README.md
       ```
 
-## 🎯 Task Breakdown
+## 🧩 Task Breakdown
 
-### Level 1 (Basic)
+### 🟢 Level 1 (Basic)
 
-#### Task 1: Data Preprocessing for Machine Learning
+#### 🧼 Task 1: Data Preprocessing for Machine Learning
 
 - Handle missing data (mean/median imputation, dropping).
 - Encode categorical variables (one-hot encoding, label encoding).
@@ -76,7 +76,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Split dataset into training and testing sets.
 - Tools: `Python, Pandas, Scikit-Learn, OS`
 
-#### Task 2: Build a Simple Linear Regression Model
+#### 📈 Task 2: Build a Simple Linear Regression Model
 
 - Load and preprocess dataset.
 - Train a linear regression model using `Scikit-learn`.
@@ -84,16 +84,16 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Evaluate model with R-squared and Mean Squared Error (MSE).
 - Tools: `Python, Pandas, Scikit-Learn, OS, Plotly`
 
-#### Task 3: Implement K-Nearest Neighbors (KNN) Classifier
+#### 🧭 Task 3: Implement K-Nearest Neighbors (KNN) Classifier
 
 - Train a KNN model on labeled dataset.
 - Evaluate using accuracy, confusion matrix, precision, recall.
 - Compare results using different values of K.
 - Tools: `Python, Scikit-Learn, Pandas, OS, NumPy, Matplotlib, Seaborn, Mplcursors`
 
-### Level 2 (Intermediate)
+### 🟡 Level 2 (Intermediate)
 
-#### Task 1: Logistic Regression for Binary Classification
+#### ✅ Task 1: Logistic Regression for Binary Classification
 
 - Load and preprocess dataset.
 - Train logistic regression model.
@@ -101,7 +101,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Evaluate using accuracy, precision, recall, and ROC curve.
 - Tools: `Python, Pandas, Scikit-Learn, Matplotlib, OS, NumPy, Seaborn`
 
-#### Task 2: Decision Trees for Classification
+#### 🌳 Task 2: Decision Trees for Classification
 
 - Train decision tree classifier on labeled dataset.
 - Visualize the tree structure.
@@ -109,7 +109,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Evaluate using classification metrics (accuracy, F1-score).
 - Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS, Seaborn`
 
-#### Task 3: K-Means Clustering
+#### 🔍 Task 3: K-Means Clustering
 
 - Load and preprocess dataset (scaling).
 - Apply K-Means clustering and determine optimal cluster number (elbow method).
@@ -117,16 +117,16 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Interpret clustering results.
 - Tools: `Python, Scikit-Learn, Matplotlib, Seaborn, OS, Pandas, NumPy, Plotly, Seaborn`
 
-### Level 3 (Advanced)
+### 🔴 Level 3 (Advanced)
 
-#### Task 1: Build a Random Forest Classifier
+#### 🌲 Task 1: Build a Random Forest Classifier
 
 - Train Random Forest model and tune hyperparameters.
 - Evaluate using cross-validation, precision, recall, F1-score.
 - Perform feature importance analysis.
 - Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS, NumPy, Seaborn, Scipy`
 
-#### Task 2: Support Vector Machine (SVM) for Classification
+#### ⚙️ Task 2: Support Vector Machine (SVM) for Classification
 
 - Train SVM model on labeled dataset.
 - Use different kernels (linear, RBF) and compare performance.
@@ -134,7 +134,7 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Evaluate using accuracy, precision, recall, and AUC.
 - Tools: `Python, Scikit-Learn, Pandas, Matplotlib, OS, Seaborn, Mlxtend`
 
-#### Task 3: Neural Network for Classification
+#### 🧠 Task 3: Neural Network for Classification
 
 - Load and preprocess dataset.
 - Design neural network (input, hidden, output layers).
@@ -142,25 +142,25 @@ This repository contains machine learning tasks as part of the [Codveda Technolo
 - Evaluate using accuracy and visualize training/validation loss.
 - Tools: `Python, TensorFlow/Keras, Pandas, Matplotlib, OS, NumPy, Scikit-Learn, Seaborn, Datetime, Imblearn`
 
-## Tech Stack
+## 🧰 Tech Stack
 
-### Tools
+### 🛠 Tools
 
 Jupyter Notebook & Microsoft Visual Studio Code
 
-### Library & FrameWork
+### 📚 Library & FrameWork
 
 OS, Pandas, Scikit-Learn, scipy, mlxtend, mplcursors, NumPy, Matplotlib, Seaborn, Tensorflow/Keras, Datetime
 
-### Version Control
+### 🌐 Version Control
 
 Git & Github
 
-### Operating System
+### 💻 Operating System
 
 Windows
 
-## 🛠 Dependencies
+## 📦 Dependencies
 
 Ensure you have the following installed before running the notebooks:
 
@@ -168,7 +168,7 @@ Ensure you have the following installed before running the notebooks:
 pip install pandas numpy scikit-learn matplotlib seaborn tensorflow keras mplcursors mlxtend scipy
 ```
 
-## 🚀 How to Run the Code
+## 🏃 How to Run the Code
 
 1. **Clone the repository**:
 
@@ -190,19 +190,19 @@ pip install pandas numpy scikit-learn matplotlib seaborn tensorflow keras mplcur
 
 4. **Run the notebooks in the `Level 1 Basic`, `Level 2 Intermediate`, and `Level 3 Advanced` folders.**
 
-## 📧 Contact
+## 📬 Contact
 
 For any queries or collaborations, reach out via:
 
-- **LinkedIn:** [Ryan Gading Abdullah](https://linkedin.com/in/ryan-gading-abdullah)
-- **Instagram:** [Ryan Gading](https://www.instagram.com/ryan_g._a/)
-- **GitHub:** [RyanGA09](https://github.com/RyanGA09)
-- **GitLab:** [RyanGA09](https://gitlab.com/RyanGA09)
+- 🔗 **LinkedIn:** [Ryan Gading Abdullah](https://linkedin.com/in/ryan-gading-abdullah)
+- 📷 **Instagram:** [Ryan Gading](https://www.instagram.com/ryan_g._a/)
+- 🐱 **GitHub:** [RyanGA09](https://github.com/RyanGA09)
+- 🦊 **GitLab:** [RyanGA09](https://gitlab.com/RyanGA09)
 
-## LICENSE
+## 📄 LICENSE
 
 [MIT LICENSE](LICENSE)
 
 Built with ❤️ by Ryan Gading Abdullah
 
-&copy; 2025 Ryan Gading Abdullah. All rights reserved.
+Copyright &copy; 2025 Ryan Gading Abdullah. All rights reserved.
